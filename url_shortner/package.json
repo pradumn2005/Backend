@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "ejs": "^5.0.2",
+    "express": "^5.2.1",
+    "mongoose": "^9.4.1",
+    "nanoid": "^5.1.9"
+  }
+}
